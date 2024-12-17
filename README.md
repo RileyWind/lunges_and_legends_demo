@@ -1,16 +1,5 @@
-# lunges_and_legends
+# Lunges and Legends Demo
 
-A new Flutter project.
+This repository shows the source code for the Lunges and Legends Flutter app. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Because all references to API keys were removed, it is not meant to be cloned. The app itself is available at LungesandLegends.com.
