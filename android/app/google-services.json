@@ -1,0 +1,25 @@
+{
+  "project_info": {
+    "project_number": "203131961036",
+    "project_id": "lunges-and-legends",
+    "storage_bucket": "lunges-and-legends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203131961036:android:ce13fc515090ac1c578c69",
+        "android_client_info": {
+          "package_name": "com.example.lunges_and_legends"
+        }
+      },
+      "oauth_client": [],
+
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
